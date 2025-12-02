@@ -1,0 +1,43 @@
+area_code,region_type,location_name
+AREA4,rural,Medicine Hat
+AREA6,urban,Calgary
+AREA13,rural,Lloydminster
+AREA17,rural,Rainbow Lake
+AREA18,rural,High Level
+AREA19,rural,Peace River
+AREA20,rural,Grande Prairie
+AREA21,rural,High Prairie
+AREA22,rural,Grande Cache
+AREA23,rural,Valleyview
+AREA24,rural,Fox Creek
+AREA25,rural,Fort McMurray
+AREA26,rural,Swan Hills
+AREA27,rural,Athabasca/Lac La Biche
+AREA28,rural,Cold Lake
+AREA29,rural,Hinton/Edson
+AREA30,rural,Drayton Valley
+AREA31,urban,Wetaskiwin
+AREA32,rural,Wainwright
+AREA33,urban,Fort Saskatchewan
+AREA34,rural,Abraham Lake
+AREA35,rural,Red Deer
+AREA36,rural,Alliance/Battle River
+AREA37,rural,Provost
+AREA38,rural,Caroline
+AREA39,rural,Didsbury
+AREA40,urban,Wabamun
+AREA42,rural,Hanna
+AREA43,rural,Sheerness
+AREA44,urban,Seebe
+AREA45,urban,Strathmore/Blackie
+AREA46,urban,High River
+AREA47,rural,Brooks
+AREA48,rural,Empress
+AREA49,rural,Stavely
+AREA52,urban,Vauxhall
+AREA53,urban,Fort Macleod
+AREA54,urban,Lethbridge
+AREA55,urban,Glenwood
+AREA56,urban,Vegreville
+AREA57,urban,Airdrie
+AREA60,urban,Edmonton
