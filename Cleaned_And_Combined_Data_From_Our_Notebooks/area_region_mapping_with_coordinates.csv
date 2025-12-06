@@ -1,0 +1,43 @@
+area_code,region_type,location_name,latitude,longitude
+4,rural,Medicine Hat,50.04303,-110.679016
+6,urban,Calgary,51.0456064,-114.057541
+13,rural,Lloydminster,53.279995,-110.00885
+17,rural,Rainbow Lake,58.502505,-119.400279
+18,rural,High Level,58.5115361,-117.1438756
+19,rural,Peace River,56.2337111,-117.2910839
+20,rural,Grande Prairie,55.17108,-118.7949873
+21,rural,High Prairie,55.4325044,-116.4836198
+22,rural,Grande Cache,53.8888135,-119.1185658
+23,rural,Valleyview,55.066667,-117.283333
+24,rural,Fox Creek,54.4061853,-116.8004913
+25,rural,Fort McMurray,56.7291997,-111.3885221
+26,rural,Swan Hills,54.7180657,-115.4008258
+27,rural,Athabasca,54.7214539,-113.2857941
+28,rural,Cold Lake,54.46046,-110.192871
+29,rural,Hinton,53.3990512,-117.5886772
+30,rural,Drayton Valley,53.2205548,-114.9832127
+31,urban,Wetaskiwin,52.968492,-113.36792
+32,rural,Wainwright,52.8402725,-110.8514344
+33,urban,Fort Saskatchewan,53.7128571,-113.214894
+34,rural,Abraham Lake,52.2063903,-116.4525891
+35,rural,Red Deer,52.2690628,-113.8141464
+36,rural,Alliance,52.4335554,-111.7832364
+37,rural,Provost,52.4137383,-110.639576
+38,rural,Caroline,52.0943034,-114.7391684
+39,rural,Didsbury,51.6567661,-114.1375682
+40,urban,Wabamun,53.5592733,-114.4783142
+42,rural,Hanna,51.6445566,-111.927479
+43,rural,Sheerness,51.5,-111.683333
+44,urban,Seebe,51.1031469,-115.0442515
+45,urban,Strathmore,51.0435486,-113.3998479
+46,urban,High River,50.5801916,-113.8709332
+47,rural,Brooks,50.571027,-111.893005
+48,rural,Empress,50.9552765,-110.0084001
+49,rural,Stavely,50.1621453,-113.6402944
+52,urban,Vauxhall,50.0691848,-112.1076913
+53,urban,Fort Macleod,49.7267379,-113.4076001
+54,urban,Lethbridge,49.6945782,-112.8331033
+55,urban,Glenwood,53.5364258,-113.602552
+56,urban,Vegreville,53.5,-112.05
+57,urban,Airdrie,51.28597,-114.01062
+60,urban,Edmonton,53.5462055,-113.491241
